@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-05T12:19:55 GMT-08:00" name="Default suite" finished-at="2022-12-05T12:20:02 GMT-08:00" duration-ms="7223">
+    <groups>
+    </groups>
+    <test started-at="2022-12-05T12:19:55 GMT-08:00" name="Default test" finished-at="2022-12-05T12:20:02 GMT-08:00" duration-ms="7223">
+      <class name="MavenA">
+        <test-method signature="Testlogin()[pri:0, instance:MavenA@79e2c065]" started-at="2022-12-05T12:19:55 GMT-08:00" name="Testlogin" finished-at="2022-12-05T12:20:01 GMT-08:00" duration-ms="6629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testlogin -->
+        <test-method is-config="true" signature="Testclouser()[pri:0, instance:MavenA@79e2c065]" started-at="2022-12-05T12:20:01 GMT-08:00" name="Testclouser" finished-at="2022-12-05T12:20:02 GMT-08:00" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testclouser -->
+      </class> <!-- MavenA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
